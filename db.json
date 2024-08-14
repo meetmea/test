@@ -1,0 +1,48 @@
+{
+    "protocols": [
+      {"STUDY_ID": "0", "STUDY_NAME": "All Protocols", "STUDY_FILTERED": "0"},
+      {"STUDY_ID": "HS0001", "STUDY_NAME": "HS0001", "STUDY_FILTERED": "5"},
+      {"STUDY_ID": "HS0002", "STUDY_NAME": "HS0002", "STUDY_FILTERED": "10"},
+      {"STUDY_ID": "HS0003", "STUDY_NAME": "HS0003", "STUDY_FILTERED": "15"},
+      {"STUDY_ID": "HS0004", "STUDY_NAME": "HS0004", "STUDY_FILTERED": "20"},
+      {"STUDY_ID": "HS0005", "STUDY_NAME": "HS0005", "STUDY_FILTERED": "25"},
+      {"STUDY_ID": "HS0006", "STUDY_NAME": "HS0006", "STUDY_FILTERED": "30"}
+    ],
+    "countries": [
+      {"COUNTRY": "All Countries"},
+      {"COUNTRY": "Australia"},
+      {"COUNTRY": "Canada"},
+      {"COUNTRY": "Germany"},
+      {"COUNTRY": "France"},
+      {"COUNTRY": "Japan"},
+      {"COUNTRY": "United Kingdom"},
+      {"COUNTRY": "United States"},
+      {"COUNTRY": "Brazil"},
+      {"COUNTRY": "China"}
+    ],
+    "subjects": [
+      {"ODS_SBJ_ID": "0", "EXT_SUBJECTID": "All Subjects"},
+      {"ODS_SBJ_ID": "1", "EXT_SUBJECTID": "Subject001"},
+      {"ODS_SBJ_ID": "2", "EXT_SUBJECTID": "Subject002"},
+      {"ODS_SBJ_ID": "3", "EXT_SUBJECTID": "Subject003"},
+      {"ODS_SBJ_ID": "4", "EXT_SUBJECTID": "Subject004"},
+      {"ODS_SBJ_ID": "5", "EXT_SUBJECTID": "Subject005"},
+      {"ODS_SBJ_ID": "6", "EXT_SUBJECTID": "Subject006"},
+      {"ODS_SBJ_ID": "7", "EXT_SUBJECTID": "Subject007"},
+      {"ODS_SBJ_ID": "8", "EXT_SUBJECTID": "Subject008"},
+      {"ODS_SBJ_ID": "9", "EXT_SUBJECTID": "Subject009"}
+    ],
+    "sites": [
+      {"SITE_ID": "0", "SITE_NO": "All Sites"},
+      {"SITE_ID": "162", "SITE_NO": "20033"},
+      {"SITE_ID": "163", "SITE_NO": "20034"},
+      {"SITE_ID": "164", "SITE_NO": "20035"},
+      {"SITE_ID": "165", "SITE_NO": "20036"},
+      {"SITE_ID": "166", "SITE_NO": "20037"},
+      {"SITE_ID": "167", "SITE_NO": "20038"},
+      {"SITE_ID": "168", "SITE_NO": "20039"},
+      {"SITE_ID": "169", "SITE_NO": "20040"},
+      {"SITE_ID": "170", "SITE_NO": "20041"}
+    ]
+  }
+  
